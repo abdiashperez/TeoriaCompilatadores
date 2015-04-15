@@ -1,0 +1,41 @@
+0 -- Token [token=inicio]
+1 -- Token [token=de]
+2 -- Token [token=programa
+]
+3 -- Token [token=inicio]
+4 -- Token [token=x]
+5 -- Token [token==]
+6 -- Token [token=dfdsfds
+]
+7 -- Token [token=fin]
+8 -- Token [token=fin]
+9 -- Token [token=de]
+10 -- Token [token=programa
+]
+11 -- Token [token=inicio]
+12 -- Token [token=de]
+13 -- Token [token=programa
+]
+14 -- Token [token=inicio]
+15 -- Token [token=x]
+16 -- Token [token==]
+17 -- Token [token=dfdsfds
+]
+18 -- Token [token=fin]
+19 -- Token [token=fin]
+20 -- Token [token=de]
+21 -- Token [token=programa
+]
+22 -- Token [token=inicio de programa]
+23 -- Token [token=inicio]
+24 -- Token [token=x]
+25 -- Token [token==]
+26 -- Token [token=y]
+27 -- Token [token==]
+28 -- Token [token=dsfsdf
+]
+29 -- Token [token=fin]
+30 -- Token [token=fin]
+31 -- Token [token=de]
+32 -- Token [token=programa
+]

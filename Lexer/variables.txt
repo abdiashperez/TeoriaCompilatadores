@@ -1,0 +1,25 @@
+0 -- de
+1 -- programa
+
+2 -- x
+3 -- dfdsfds
+
+4 -- de
+5 -- programa
+
+6 -- de
+7 -- programa
+
+8 -- x
+9 -- dfdsfds
+
+10 -- de
+11 -- programa
+
+12 -- x
+13 -- y
+14 -- dsfsdf
+
+15 -- de
+16 -- programa
+
