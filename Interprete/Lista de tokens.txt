@@ -1,0 +1,21 @@
+0 inicio de programa
+1 variableA
+2 =
+3 0
+4 variableB
+5 =
+6 5
+7 mientras
+8 variableA
+9 <
+10 variableB
+11 inicio
+12 escribir
+13 variableA
+14 variableA
+15 =
+16 variableA
+17 +
+18 1
+19 fin
+20 fin de programa

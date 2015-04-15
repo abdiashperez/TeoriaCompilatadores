@@ -1,0 +1,11 @@
+inicio de programa
+ variableA = 0 
+ variableB = 5
+
+ mientras variableA < variableB 
+ inicio 
+  escribir variableA
+  variableA = variableA + 1
+ fin 
+
+ fin de programa
